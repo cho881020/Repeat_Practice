@@ -127,17 +127,26 @@ public class MainDrive {
 		
 //		두번째 방법 : i의 값이 줄어들도록 for문을 감소형으로.
 		
-		for (int i=5 ; i > 0 ; i--) {
-			
-//			j가 도는 횟수를 5,4,3,2,1 로 줄어들도록
-			
-			for (int j=0 ; j < i ; j++ ) {
-				System.out.print("*");
-			}
-			
-			System.out.println();
-			
-		}
+//		for (int i=5 ; i > 0 ; i--) {
+//			
+////			j가 도는 횟수를 5,4,3,2,1 로 줄어들도록
+//			
+//			for (int j=0 ; j < i ; j++ ) {
+//				System.out.print("*");
+//			}
+//			
+//			System.out.println();
+//			
+//		}
+		
+		
+//		3.4) 우상향 삼각형 찍기
+		
+//		    *
+//		   **
+//		  ***
+//		 ****
+//		*****
 		
 		
 		
