@@ -178,6 +178,8 @@ public class MainDrive {
 				System.out.print("*");
 			}
 			
+//			빈 칸을 출력
+			
 			System.out.println();
 			
 			
